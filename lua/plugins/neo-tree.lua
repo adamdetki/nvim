@@ -3,7 +3,7 @@ return {
   opts = {
     window = {
       mappings = {
-        ["V"] = "open",
+        ["<Tab>"] = "open",
       },
     },
   },
