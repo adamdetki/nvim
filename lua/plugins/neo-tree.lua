@@ -4,6 +4,7 @@ return {
     window = {
       mappings = {
         ["<Tab>"] = "open",
+        ["0"] = "close_node",
       },
     },
   },
